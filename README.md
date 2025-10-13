@@ -29,7 +29,7 @@ Permite conversar mediante audio con respuestas habladas y maneja herramientas p
 
 ### Clonar el repositorio
 
-git clone https://github.com/tu-usuario/bg-bot-voice-assistant.git
+git clone https://github.com/sabenavi/Bank_Call_Agent.git
 cd bg-bot-voice-assistant
 
 ### Crear un entorno virtual 
