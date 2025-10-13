@@ -16,15 +16,16 @@ Permite conversar mediante audio con respuestas habladas y maneja herramientas p
 
 ---
 
-## 🧰 Requisitos
+## Requisitos
 
 - Python **3.10 o superior** (recomendado: **3.12**).  
-- Micrófono funcional.  
+- Micrófono funcional.
+- Probar con audifonos y no speakers, ya que el modelo va a tomar el audio de los speakers como entrada de audio, lo que generaria problemas.
 - Clave API válida de **OpenAI** con acceso a modelos Realtime.  
 
 ---
 
-## ⚙️ Instalación y configuración
+## Instalación y configuración
 
 ### Clonar el repositorio
 
