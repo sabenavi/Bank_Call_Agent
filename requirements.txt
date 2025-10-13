@@ -1,0 +1,12 @@
+websocket-client
+python-dotenv
+pyaudio
+websockets
+numpy
+scipy
+pydub
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain-huggingface

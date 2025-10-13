@@ -1,0 +1,50 @@
+Pregunta: ¿Cómo puedo abrir una cuenta de ahorros?
+Respuesta: Tienes 2 opciones para abrir una cuenta de ahorros, puedes hacerlo en línea o en cualquier Agencia. 
+En línea -> El único requisito es tener cédula de identidad ecuatoriana vigente y ser mayor de edad. No necesitas realizar un depósito inicial. Descarga la App Banco Guayaquil y empieza el proceso. También puedes hacerlo desde la web
+Agencia -> Si prefieres abrir tu cuenta de manera presencial, puedes acercarte a cualquiera de nuestras oficinas en el área de servicio al cliente. Solo debes presentar tu cédula de identidad. Para tu comodidad puedes planificar tu visita a nuestras agencias agendando tu turno en línea.
+
+Pregunta: ¿Cómo puedo abrir una cuenta corriente? 
+Respuesta: Tienes 2 opciones para abrir una Cuenta Corriente, puedes hacerlo en línea o en cualquier Agencia.
+En línea -> El único requisito es tener cédula de identidad ecuatoriana actualizada y ser mayor de edad. No necesitas realizar un depósito inicial. Para abrir tu cuenta debes completar los datos solicitados aquí: Abrir cuenta corriente.
+Agencia -> Si prefieres abrir tu cuenta de manera presencial, puedes acercarte a cualquiera de nuestras oficinas en el área de servicio al cliente. Solo debes presentar tu cédula de identidad.Para tu comodidad puedes planificar tu visita a nuestras agencias agendando tu turno en línea
+
+Pregunta: ¿Cómo puedo abrir una cuenta si estoy en el exterior? 
+Respuesta: Puedes abrir tu cuenta en línea o en una de nuestras oficinas, según tu situación migratoria:
+Si tienes cédula ecuatoriana vigente -> Puedes abrir tu cuenta en línea y sin depósito inicial. Solo necesitas: Ser mayor de edad. Tener tu cédula ecuatoriana a la mano. Completar tus datos personales y de contacto en el formulario.
+Si no tienes cédula ecuatoriana -> Debes acercarte a servicio al cliente en cualquiera de nuestras oficinas con estos documentos: Pasaporte vigente con el sello de tu última entrada a Ecuador, Visa o estado migratorio, Planilla de servicios básicos (agua, luz, teléfono o TV por cable) con fecha de emisión de los últimos 3 meses
+
+Pregunta: ¿Cómo actualizo mis datos? 
+Respuesta: Tienes 2 opciones para actualizar tus datos, puedes hacerlo desde tu App, o desde nuestra página web.
+App -> 
+- Al ingresar, entra a "Perfil" que se encuentra en la parte inferior derecha.
+- Elige la opción "Información personal".
+- Al final de esta pantalla encuentras la opción "Actualizar datos".
+- Selecciona y actualiza lo que necesites: celular, correo electrónico, dirección de domicilio, dirección de trabajo, entrega de correspondencia.
+Pagina web -> Actualiza tu celular, correo electrónico o dirección aquí: https://apps.bancoguayaquil.com/BG.Neo.ContratacionOnline.Web/ActualizaDatosCliente?utm_source=CentroAyuda&_gl=1*9ffvil*_ga*MTk5NDA1OTY4NC4xNzQwNjIzMDgx*_ga_XF14VRKYEL*czE3NjAyODY0NzIkbzMkZzEkdDE3NjAyODcyMjkkajEwJGwwJGgxNjQyOTQzMzcx
+- Ten tu cédula a la mano, solicitaremos tu código dactilar. Este se encuentra en el reverso de tu cédula, en la parte superior derecha.
+- Por seguridad, te solicitaremos que realices un reconocimiento facial. Para ello, debes darnos acceso a tu cámara.
+- Asegúrate de:
+    - Tener buena iluminación.
+    - No estar a contraluz.
+    - Retirar lentes o gafas de sol antes de empezar.
+
+Pregunta: ¿Cómo solicito un certificado bancario?
+Respuesta: Puedes solicitar un certificado bancario desde nuestra App o con ChatBG desde WhatsApp.
+App -> 
+    - Al ingresar, el menú principal, escoge la opción "Solicitar Certificados".
+    - Elige el tipo de certificado que necesitas, a quién va dirigido, el producto que necesitas certificar, el idioma y si deseas que incluya el saldo de tu cuenta o tarjeta.
+    - Acepta y en pocos minutos tendrás el certificado en tu correo.
+
+ChatBG -> 
+    - Escribe la palabra "Certificado bancario" a ChatBG desde WhatsApp al 0983730100.
+    - Elige el medio por el que deseas recibir un código de seguridad e ingresa el código que recibiste.
+    - Selecciona el tipo de referencia que necesitas: saldo promedio, saldo disponible o sin saldo.
+    - Escribe el nombre de la persona o empresa a quien va dirigido.
+    - Dentro del chat aparecerá un link para que lo descargues como PDF. Este servicio no tiene ningún costo. 
+
+Agencias ->
+También puedes acercarte con tu cédula de identidad a servicio al cliente de cualquiera de nuestras oficinas a nivel nacional. Te entregaremos el certificado que necesites impreso, este servicio tiene un costo de $2,25 más IVA. Para tu comodidad puedes planificar tu visita a nuestras agencias agendando tu turno en línea en el enlace https://apps.bancoguayaquil.com/SolicitaTurnoEnAgencia?utm_source=CentroAyuda&_gl=1*1ujg80g*_gcl_au*NjY4OTUwMTgyLjE3NjAyODczOTk.*_ga*MTk5NDA1OTY4NC4xNzQwNjIzMDgx*_ga_XF14VRKYEL*czE3NjAyODY0NzIkbzMkZzEkdDE3NjAyODc2NzMkajU5JGwwJGgxNjQyOTQzMzcx
+
+
+
+
